@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(252, 201, 210);
+  background-image: url ("Bodybackground.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 0;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+  display: inline;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+div {
+  text-align: center;
+  background-color: pink;
+  height: 50px;
+}
